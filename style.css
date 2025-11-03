@@ -1,0 +1,20 @@
+body { 
+    background-color: black;
+    font-family: Arial, sans-serif;
+    color: yellow
+}
+h1 { 
+    color: white;
+    text-align: center;
+
+    }
+p {
+    font-size: 18px;
+text-align: justify;
+
+}
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
